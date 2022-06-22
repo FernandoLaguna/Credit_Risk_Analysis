@@ -19,7 +19,7 @@ This model obtained a 67% of accuracy and a recall of 76% (which is not bad) but
 ### SMOTE Oversampling
 This model obtained a 53% of accuracy and a recall of 53% and its precission is only 1%. It performs worse than the previous one, I don´t recommend to use it
 
-![SMOTE](SMOTE.png)
+![SMOTE](/Images/SMOT.png)
 
 ### Undersampling
 This model obtained a 54% of accuracy and a recall of 68% and its precission is only 1%. I don´t recommend to use it
