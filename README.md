@@ -34,7 +34,7 @@ This model obtained a 54% of accuracy and a recall of 74% and its precission is 
 ### Random Forest
 This model obtained a 69% of accuracy but only 39% of reacall, it has a high precission (93%) but due to its low recall I don´t recommend to use it
 
-![Random Forest](randomforest.png)
+![Random Forest](/Images/Randomforest.png)
 
 ### Random Forest
 This model obtained a 93% of accuracy (the highest), 92% of reacall (the highest), but has just 9% of precission. I recommend to use this model because is very good avoiding false negatives. 
